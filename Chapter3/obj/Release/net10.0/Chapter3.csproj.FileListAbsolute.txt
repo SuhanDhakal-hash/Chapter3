@@ -1,0 +1,14 @@
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\Chapter3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\Chapter3.AssemblyInfoInputs.cache
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\Chapter3.AssemblyInfo.cs
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\Chapter3.csproj.CoreCompileInputs.cache
+G:\Donet\Chapter3\Chapter3\bin\Release\net10.0\Chapter3.exe
+G:\Donet\Chapter3\Chapter3\bin\Release\net10.0\Chapter3.deps.json
+G:\Donet\Chapter3\Chapter3\bin\Release\net10.0\Chapter3.runtimeconfig.json
+G:\Donet\Chapter3\Chapter3\bin\Release\net10.0\Chapter3.dll
+G:\Donet\Chapter3\Chapter3\bin\Release\net10.0\Chapter3.pdb
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\Chapter3.dll
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\refint\Chapter3.dll
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\Chapter3.pdb
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\Chapter3.genruntimeconfig.cache
+G:\Donet\Chapter3\Chapter3\obj\Release\net10.0\ref\Chapter3.dll
